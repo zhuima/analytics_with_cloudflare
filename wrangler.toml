@@ -4,5 +4,5 @@ compatibility_date = "2023-12-03"
 
 [[d1_databases]]
 binding = "DB" # i.e. available in your Worker on env.DB
-database_name = "<DATABASE_NAME>"
-database_id = "<unique-ID-for-your-database>"
+database_name = "analytics"
+database_id = "cecdcbeb-8ce0-456c-9b8b-b6a770c13201"
